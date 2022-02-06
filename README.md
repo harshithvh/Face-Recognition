@@ -34,12 +34,15 @@ Computer Vision refers to machine learning to analyze, understand and respond to
 ---
 
 **Image classification** 
+
 An image can be classified using it. It can accurately predict that a given image belongs to a particular class.
 E.g., A social media company would need to use it to automatically identify and segregate harmful content uploaded by users.
 
 **Object detection** 
+
 Image classification is used to identify a specific image class and then detect and tabulate their appearance in an image or video. Examples include detecting damages on an assembly line or identifying machinery that requires maintenance.
 
 **Object tracking** 
+
 It can track an object once it is identified. This task is often executed with images captured in sequence or real-time video feeds. Autonomous vehicles, for example, need not only to classify and detect objects such as pedestrians, other cars and road infrastructure, but they also need to track them in motion to avoid collisions and obey traffic laws.
 
